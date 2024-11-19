@@ -21,6 +21,9 @@
 #### 아우으 우아으이야!!(15922)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/%EB%9E%9C%EB%8D%A4-%EB%A7%88%EB%9D%BC%ED%86%A4-%EC%95%84%EC%9A%B0%EC%9C%BC-%EC%9A%B0%EC%95%84%EC%9C%BC%EC%9D%B4%EC%95%BC15922-35162)
 [![solved.ac](https://img.shields.io/badge/solved.ac-green)](https://www.acmicpc.net/problem/15922)
+#### 고냥이(16472)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/%EB%9E%9C%EB%8D%A4-%EB%A7%88%EB%9D%BC%ED%86%A4-%EA%B3%A0%EB%83%A5%EC%9D%B416472-35218)
+[![solved.ac](https://img.shields.io/badge/solved.ac-green)](https://www.acmicpc.net/problem/16472)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -41,3 +44,6 @@
 #### 뒤에 있는 큰 수 찾기(154539)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%92%A4%EC%97%90-%EC%9E%88%EB%8A%94-%ED%81%B0-%EC%88%98-%EC%B0%BE%EA%B8%B0154539-35154)
 [![solved.ac](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/154539)
+#### 땅따먹기(12913)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B012913-35189)
+[![solved.ac](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
