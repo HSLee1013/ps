@@ -1,4 +1,4 @@
-package programmers.p84512;
+package programmers.nov_second.p84512;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package programmers.p49994;
+package programmers.nov_second.p49994;
 
 import java.util.HashSet;
 import java.util.Set;
