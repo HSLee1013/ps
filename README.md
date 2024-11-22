@@ -35,6 +35,9 @@
 #### 퍼거슨과 사과(2942)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/%EB%9E%9C%EB%8D%A4-%EB%A7%88%EB%9D%BC%ED%86%A4-%ED%8D%BC%EA%B1%B0%EC%8A%A8%EA%B3%BC-%EC%82%AC%EA%B3%BC2942-35440)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/2942)
+#### 슬라임 잡고 레벨 업!(29717)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/%EB%9E%9C%EB%8D%A4-%EB%A7%88%EB%9D%BC%ED%86%A4-%EC%8A%AC%EB%9D%BC%EC%9E%84-%EC%9E%A1%EA%B3%A0-%EB%A0%88%EB%B2%A8-%EC%97%8529717-35975)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/29717)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -64,3 +67,6 @@
 #### 주식가격(42584)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A942584-35412)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+#### 더 맵게(42626)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8D%94-%EB%A7%B5%EA%B2%8C42626-35509)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
