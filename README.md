@@ -38,6 +38,9 @@
 #### 슬라임 잡고 레벨 업!(29717)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/%EB%9E%9C%EB%8D%A4-%EB%A7%88%EB%9D%BC%ED%86%A4-%EC%8A%AC%EB%9D%BC%EC%9E%84-%EC%9E%A1%EA%B3%A0-%EB%A0%88%EB%B2%A8-%EC%97%8529717-35975)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/29717)
+#### Sudoku 5(20098)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/%EB%9E%9C%EB%8D%A4-%EB%A7%88%EB%9D%BC%ED%86%A4-sudoku-520098-36117)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/20098)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -70,3 +73,6 @@
 #### 더 맵게(42626)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8D%94-%EB%A7%B5%EA%B2%8C42626-35509)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
+#### 단어 변환(43163)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8B%A8%EC%96%B4-%EB%B3%80%ED%99%9843163-36115)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/43163)
