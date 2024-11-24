@@ -41,6 +41,9 @@
 #### Sudoku 5(20098)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/%EB%9E%9C%EB%8D%A4-%EB%A7%88%EB%9D%BC%ED%86%A4-sudoku-520098-36117)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/20098)
+#### 보물섬(2589)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/%EB%9E%9C%EB%8D%A4-%EB%A7%88%EB%9D%BC%ED%86%A4-%EB%B3%B4%EB%AC%BC%EC%84%AC2589-36138)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/2589)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -76,3 +79,6 @@
 #### 단어 변환(43163)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8B%A8%EC%96%B4-%EB%B3%80%ED%99%9843163-36115)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/43163)
+#### 지폐 접기(340199)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://school.programmers.co.kr/learn/courses/30/lessons/340199)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://inblog.ai/lhs/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%A7%80%ED%8F%90-%EC%A0%91%EA%B8%B0340199-36134)
