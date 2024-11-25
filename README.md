@@ -44,6 +44,9 @@
 #### 보물섬(2589)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/%EB%9E%9C%EB%8D%A4-%EB%A7%88%EB%9D%BC%ED%86%A4-%EB%B3%B4%EB%AC%BC%EC%84%AC2589-36138)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/2589)
+#### 끝나지 않는 파티(11265)
+[![inblog](https://inblog.ai/lhs/%EB%9E%9C%EB%8D%A4-%EB%A7%88%EB%9D%BC%ED%86%A4-%EB%81%9D%EB%82%98%EC%A7%80-%EC%95%8A%EB%8A%94-%ED%8C%8C%ED%8B%B011265-36246)
+[![BAEKJOON](https://www.acmicpc.net/problem/11265)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -82,3 +85,6 @@
 #### 지폐 접기(340199)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://school.programmers.co.kr/learn/courses/30/lessons/340199)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://inblog.ai/lhs/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%A7%80%ED%8F%90-%EC%A0%91%EA%B8%B0340199-36134)
+#### 다트 게임(17682)
+[![inblog](https://inblog.ai/lhs/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8B%A4%ED%8A%B8-%EA%B2%8C%EC%9E%8417682-36183)
+[![programmers](https://school.programmers.co.kr/learn/courses/30/lessons/17682)
