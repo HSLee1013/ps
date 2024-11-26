@@ -47,6 +47,9 @@
 #### 끝나지 않는 파티(11265)
 [![inblog](https://inblog.ai/lhs/%EB%9E%9C%EB%8D%A4-%EB%A7%88%EB%9D%BC%ED%86%A4-%EB%81%9D%EB%82%98%EC%A7%80-%EC%95%8A%EB%8A%94-%ED%8C%8C%ED%8B%B011265-36246)
 [![BAEKJOON](https://www.acmicpc.net/problem/11265)
+#### 사촌(9489)
+[![inblog](https://inblog.ai/lhs/36402)
+[![BAEKJOON](https://www.acmicpc.net/problem/9489)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -88,3 +91,6 @@
 #### 다트 게임(17682)
 [![inblog](https://inblog.ai/lhs/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8B%A4%ED%8A%B8-%EA%B2%8C%EC%9E%8417682-36183)
 [![programmers](https://school.programmers.co.kr/learn/courses/30/lessons/17682)
+#### 스킬트리(49993)
+[![inblog](https://inblog.ai/lhs/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC49993-36322)
+[![programmers](https://school.programmers.co.kr/learn/courses/30/lessons/49993)
