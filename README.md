@@ -54,6 +54,9 @@
 #### Deja vu of Go Players(23663)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36489)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/23663)
+#### Alloys(20761)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36574)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/20761)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -101,3 +104,6 @@
 #### 로또의 최고 순위와 최저 순위(77484)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36488)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/77484)
+#### 주차 요금 계산(92341)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36568)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
