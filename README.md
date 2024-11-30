@@ -63,6 +63,9 @@
 #### 안정적인 문자열(4889)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36671)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/4889)
+#### Bellevue(25993)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36713)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/25993)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -116,3 +119,6 @@
 #### 택배상자(131704)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36655)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/131704)
+#### 등굣길(42898)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36712)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/42898)
