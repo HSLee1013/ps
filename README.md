@@ -69,6 +69,9 @@
 #### Decision(7873)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36721)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/7873)
+#### Easy Chess(16664)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36813)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/16664)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -128,3 +131,6 @@
 #### 오픈채팅방(42888)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36717)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
+#### 문자열 나누기(140108)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36771)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/140108)
