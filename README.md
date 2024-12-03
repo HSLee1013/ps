@@ -72,6 +72,9 @@
 #### Easy Chess(16664)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36813)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/16664)
+#### 표본의 수 구하기(13204)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36905)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/13204)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -134,3 +137,6 @@
 #### 문자열 나누기(140108)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36771)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/140108)
+#### 숫자 변환하기(154538)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36826)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/154538)
