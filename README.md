@@ -75,6 +75,10 @@
 #### 표본의 수 구하기(13204)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36905)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/13204)
+## 2024-12 1주차
+#### Ornaments(26550)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36980)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/26550)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -140,3 +144,6 @@
 #### 숫자 변환하기(154538)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36826)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/154538)
+#### 둘만의 암호(155652)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36979)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/155652)
