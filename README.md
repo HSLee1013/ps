@@ -79,6 +79,9 @@
 #### Ornaments(26550)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36980)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/26550)
+#### 진우의 달 여행 (Small)(17484)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37142)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/17484)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -147,3 +150,6 @@
 #### 둘만의 암호(155652)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/36979)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/155652)
+#### 대충 만든 자판(160586)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37141)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/160586)
