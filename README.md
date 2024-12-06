@@ -82,6 +82,9 @@
 #### 진우의 달 여행 (Small)(17484)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37142)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/17484)
+#### 선배님 밥 사주세요!(31869)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37197)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/31869)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -153,3 +156,6 @@
 #### 대충 만든 자판(160586)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37141)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/160586)
+#### 최고의 집합(12938)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37158)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/12938)
