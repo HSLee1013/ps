@@ -85,6 +85,9 @@
 #### 선배님 밥 사주세요!(31869)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37197)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/31869)
+#### 점수 계산(25710)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37217)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/25710)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -159,3 +162,6 @@
 #### 최고의 집합(12938)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37158)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/12938)
+#### [3차] 파일명 정렬(17686)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37215)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/17686)
