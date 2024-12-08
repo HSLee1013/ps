@@ -88,6 +88,13 @@
 #### 점수 계산(25710)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37217)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/25710)
+#### 졸업 사진(23349)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37229)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/23349)
+#### Feeding Seals(17799)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37235)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/17799)
+
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -165,3 +172,6 @@
 #### [3차] 파일명 정렬(17686)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37215)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/17686)
+#### [PCCE 기출문제] 9번 / 이웃한 칸(250125)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37228)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/250125)
