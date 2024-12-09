@@ -94,7 +94,9 @@
 #### Feeding Seals(17799)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37235)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/17799)
-
+#### 행렬 찾기(1687)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37362)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/1687)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -175,3 +177,6 @@
 #### [PCCE 기출문제] 9번 / 이웃한 칸(250125)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37228)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/250125)
+#### 2 x n 타일링(12900)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37305)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
