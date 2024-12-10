@@ -97,6 +97,9 @@
 #### 행렬 찾기(1687)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37362)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/1687)
+#### Model Railroad(13151)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37451)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/13151)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -180,3 +183,6 @@
 #### 2 x n 타일링(12900)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37305)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
+#### 숫자 게임(12987)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37450)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/12987)
