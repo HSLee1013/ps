@@ -100,6 +100,13 @@
 #### Model Railroad(13151)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37451)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/13151)
+## 2024-12 2주차
+#### 스네이크(27512)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37474)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/27512)
+#### 단어 퍼즐(9946)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37478)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/9946)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -186,3 +193,6 @@
 #### 숫자 게임(12987)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37450)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/12987)
+#### 완주하지 못한 선수(42576)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37473)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
