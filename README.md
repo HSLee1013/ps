@@ -107,6 +107,9 @@
 #### 단어 퍼즐(9946)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37478)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/9946)
+#### 선분 위의 점(11663)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37560)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/11663)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -196,3 +199,6 @@
 #### 완주하지 못한 선수(42576)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37473)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
+#### 체육복(42862)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37558)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
