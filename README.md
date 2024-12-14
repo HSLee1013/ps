@@ -113,6 +113,9 @@
 #### Move & Meet(18066)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37881)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/18066)
+#### 튕기는 볼링공(1876)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37923)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/1876)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -208,3 +211,6 @@
 #### [1차] 프렌즈4블록(17679)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37629)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/17679)
+#### [PCCE 기출문제] 7번 / 버스(340201)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37920)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/340201)
