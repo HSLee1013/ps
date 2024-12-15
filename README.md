@@ -116,6 +116,9 @@
 #### 튕기는 볼링공(1876)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37923)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/1876)
+#### CTP 왕국은 한솔 왕국을 이길 수 있을까?(15789)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37944)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/15789)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -214,3 +217,6 @@
 #### [PCCE 기출문제] 7번 / 버스(340201)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37920)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/340201)
+#### 단속카메라(42884)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37943)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/42884)
