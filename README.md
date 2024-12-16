@@ -119,6 +119,9 @@
 #### CTP 왕국은 한솔 왕국을 이길 수 있을까?(15789)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37944)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/15789)
+#### 진법 변환(1112)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37959)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/1112)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -220,3 +223,6 @@
 #### 단속카메라(42884)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37943)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/42884)
+#### 숫자 짝꿍(131128)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37953)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
