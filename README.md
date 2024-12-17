@@ -122,6 +122,9 @@
 #### 진법 변환(1112)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37959)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/1112)
+#### Year of the Cow(21233)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38044)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/21233)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -226,3 +229,6 @@
 #### 숫자 짝꿍(131128)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/37953)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
+#### 2개 이하로 다른 비트(77885)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38031)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/77885)
