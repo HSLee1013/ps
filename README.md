@@ -125,6 +125,10 @@
 #### Year of the Cow(21233)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38044)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/21233)
+## 2024-12 3주차
+#### CARDS(3280)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38160)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/3280)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -232,3 +236,6 @@
 #### 2개 이하로 다른 비트(77885)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38031)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/77885)
+#### 기지국 설치(12979)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38157)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/12979)
