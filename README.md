@@ -129,6 +129,9 @@
 #### CARDS(3280)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38160)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/3280)
+#### 동전 게임(10837)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38225)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/10837)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -239,3 +242,6 @@
 #### 기지국 설치(12979)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38157)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/12979)
+#### 햄버거 만들기(133502)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38178)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
