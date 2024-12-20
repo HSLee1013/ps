@@ -132,6 +132,9 @@
 #### 동전 게임(10837)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38225)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/10837)
+#### My Cow Ate My Homework(15460)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38293)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/15460)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -245,3 +248,6 @@
 #### 햄버거 만들기(133502)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38178)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
+#### 가장 큰 수(42746)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38269)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
