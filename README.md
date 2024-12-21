@@ -135,6 +135,9 @@
 #### My Cow Ate My Homework(15460)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38293)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/15460)
+#### 실수(24057)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38363)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/24057)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -251,3 +254,6 @@
 #### 가장 큰 수(42746)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38269)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
+#### 두 큐 합 같게 만들기(118667)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38361)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
