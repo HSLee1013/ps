@@ -138,6 +138,12 @@
 #### 실수(24057)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38363)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/24057)
+#### Rotate (Small)(12583)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38417)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/12583)
+#### Rotate (Small)(12583)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38419)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/22965)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -257,3 +263,6 @@
 #### 두 큐 합 같게 만들기(118667)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38361)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
+#### 쿼드압축 후 개수 세기(68936)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38414)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
