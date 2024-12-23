@@ -141,9 +141,12 @@
 #### Rotate (Small)(12583)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38417)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/12583)
-#### Rotate (Small)(12583)
+#### k개의 부분 배열(22965)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38419)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/22965)
+#### 미적분학 입문하기 2(24726)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38453)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/24726)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -266,3 +269,6 @@
 #### 쿼드압축 후 개수 세기(68936)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38414)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
+#### 베스트앨범(42579)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38438)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
