@@ -150,6 +150,10 @@
 #### 카드 묶음(1771)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38568)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/1771)
+## 2024-12 4주차
+#### Farm robot(13871)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38611)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/13871)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -278,3 +282,6 @@
 #### 다리를 지나는 트럭(42583)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38558)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+#### 소수 찾기(42839)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38608)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
