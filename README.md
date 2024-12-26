@@ -154,6 +154,9 @@
 #### Farm robot(13871)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38611)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/13871)
+#### The Big Dance(6012)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38711)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/6012)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -285,3 +288,6 @@
 #### 소수 찾기(42839)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38608)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
+#### 큰 수 만들기(42883)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38692)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/42883)
