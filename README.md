@@ -157,6 +157,9 @@
 #### The Big Dance(6012)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38711)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/6012)
+#### 트리의 부모 찾기(11725)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38953)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/11725)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -291,3 +294,6 @@
 #### 큰 수 만들기(42883)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38692)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/42883)
+#### 크레인 인형뽑기 게임(64061)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38946)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
