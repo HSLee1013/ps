@@ -160,6 +160,9 @@
 #### 트리의 부모 찾기(11725)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38953)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/11725)
+#### Bacteria (Small)(12567)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39042)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/12567)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -297,3 +300,6 @@
 #### 크레인 인형뽑기 게임(64061)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/38946)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+#### 연속된 부분 수열의 합(178870)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39038)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/178870)
