@@ -163,6 +163,12 @@
 #### Bacteria (Small)(12567)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39042)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/12567)
+#### 별꽃의 세레나데 (Easy)(26217)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39071)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/26217)
+#### 리그전 오브 레전드(23327)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39072)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/23327)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -303,3 +309,6 @@
 #### 연속된 부분 수열의 합(178870)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39038)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/178870)
+#### [PCCE 기출문제] 10번 / 데이터 분석(250121)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39068)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/250121)

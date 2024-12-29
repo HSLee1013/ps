@@ -41,7 +41,6 @@ public class Main {
                 queue.add(cur);
                 while (!queue.isEmpty()) {
                     cur = queue.poll();
-                    map[cur[0]][cur[1]] = false;
                     maxX = Math.max(maxX, cur[0]);
                     maxY = Math.max(maxY, cur[1]);
                     minXY = Math.min(minXY, cur[0] + cur[1]);
