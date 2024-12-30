@@ -169,6 +169,9 @@
 #### 리그전 오브 레전드(23327)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39072)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/23327)
+#### 더 푸르게(9983)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39385)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/9983)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
