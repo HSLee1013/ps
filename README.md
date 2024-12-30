@@ -312,3 +312,6 @@
 #### [PCCE 기출문제] 10번 / 데이터 분석(250121)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39068)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/250121)
+#### 삼각 달팽이(68645)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39127)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
