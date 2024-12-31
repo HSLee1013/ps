@@ -172,6 +172,9 @@
 #### 더 푸르게(9983)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39385)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/9983)
+#### 레이저 쏘기(27499)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39430)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/27499)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -318,3 +321,6 @@
 #### 삼각 달팽이(68645)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39127)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
+#### 스티커 모으기(2)(12971)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39406)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)
