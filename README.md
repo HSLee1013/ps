@@ -175,6 +175,13 @@
 #### 레이저 쏘기(27499)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39430)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/27499)
+## 2025-01 1주차
+#### 단원평가(31798)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39460)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/31798)
+#### 주차 빌딩(3699)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39463)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/3699)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -324,3 +331,6 @@
 #### 스티커 모으기(2)(12971)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39406)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)
+#### [카카오 인턴] 키패드 누르기(67256)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39459)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/67256)
