@@ -185,6 +185,9 @@
 #### 비슷한 번호판(21980)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39517)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/21980)
+#### Letters Q and F(24649)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39653)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/24649)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -340,3 +343,6 @@
 #### 마법의 엘리베이터(148653)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39510)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
+#### 시소 짝꿍(152996)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39622)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
