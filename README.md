@@ -191,6 +191,9 @@
 #### 최소공배수 찾기(11688)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39721)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/11688)
+#### 자라나는 직교 나선(10437)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39739)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/10437)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -352,3 +355,6 @@
 #### 전력망을 둘로 나누기(86971)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39719)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
+#### 124 나라의 숫자(12899)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39735)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/12899)
