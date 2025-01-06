@@ -194,6 +194,9 @@
 #### 자라나는 직교 나선(10437)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39739)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/10437)
+#### 돌의 정령 줄세우기(24025)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39782)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/24025)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -358,3 +361,6 @@
 #### 124 나라의 숫자(12899)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39735)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/12899)
+#### 호텔 대실(155651)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39776)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
