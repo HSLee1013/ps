@@ -197,6 +197,9 @@
 #### 돌의 정령 줄세우기(24025)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39782)
 [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/24025)
+#### Trading(11853)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39928)
+[![BAEKJOON](https://img.shields.io/badge/BAEKJOON-grey)](https://www.acmicpc.net/problem/11853)
 
 # 프로그래머스 문제
 #### 모음사전(84512)
@@ -364,6 +367,3 @@
 #### 호텔 대실(155651)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39776)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
-#### 숫자 카드 나누기(135807)
-[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/39993)
-[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
