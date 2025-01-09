@@ -1,4 +1,4 @@
-package programmers.y2025.m1.w2.p135807;
+package programmers.y2025.m1.w2.a135807;
 
 import java.util.Arrays;
 
