@@ -373,3 +373,6 @@
 #### [카카오 인턴] 보석 쇼핑(67258)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/40085)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/67258)
+#### 메뉴 리뉴얼(72411)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/40156)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
