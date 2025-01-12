@@ -376,3 +376,6 @@
 #### 메뉴 리뉴얼(72411)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/40156)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
+#### 미로 탈출(159993)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/40174)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
