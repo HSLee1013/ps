@@ -382,3 +382,6 @@
 #### [3차] 방금그곡(17683)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/40209)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/17683)
+#### 무인도 여행(154540)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/40351)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
