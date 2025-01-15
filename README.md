@@ -385,3 +385,6 @@
 #### 무인도 여행(154540)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/40351)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
+#### 징검다리 건너기(64062)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/40429)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/64062)
