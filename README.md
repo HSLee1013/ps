@@ -394,3 +394,6 @@
 #### 섬 연결하기(42861)
 [![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/40615)
 [![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/42861)
+#### 가장 먼 노드(49189)
+[![inblog](https://img.shields.io/badge/inblog-white)](https://inblog.ai/lhs/40644)
+[![programmers](https://img.shields.io/badge/programmers-%23202B3D)](https://school.programmers.co.kr/learn/courses/30/lessons/49189)
